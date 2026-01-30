@@ -10,6 +10,9 @@
   "moltbot": {
     "extensions": ["./index.ts"]
   },
+  "openclaw": {
+    "extensions": ["./index.ts"]
+  },
   "scripts": {
     "build": "tsc || true",
     "dev": "tsc --watch",
